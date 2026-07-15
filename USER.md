@@ -1,21 +1,11 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Michel
+- **What to call them:** Michel
+- **Pronouns:** _(averiguar)_
+- **Timezone:** GMT-3 (Argentina/Uruguay)
+- **Notes:** Le copa el humor y la onda ocurrente. Prefiere procesos eficientes pero amenos.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
-
-## Related
-
-- [Agent workspace](/concepts/agent-workspace)
+_(pendiente — proyectos, intereses, lo que haga)_
