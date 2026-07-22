@@ -1,0 +1,2 @@
+Por cuestiones de seguridad y privacidad,decidí crear una nueva cuenta de google para hacer este project y aún así no le di permisos sobre el drive. Solamente sobre calendar y docs para hacer las pruebas que se pedian.
+No encontre demasiados problemas,creo que ninguno.
